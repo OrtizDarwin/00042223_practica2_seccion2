@@ -1,0 +1,25 @@
+/* Estilos basico de css< */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #59f300;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+main {
+    padding: 2rem;
+}
+
+footer {
+    background-color: #030000;
+    color: #ccc;
+    text-align: center;
+    padding: 1rem;
+}
